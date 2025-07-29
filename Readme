@@ -1,0 +1,4 @@
+The current state of the project isn't complete.
+the communication emulates modbus which is a client server system
+there are two templates, CLIENT & SERVER.
+the end devices would be created using the server code and the client would be made using the client code
