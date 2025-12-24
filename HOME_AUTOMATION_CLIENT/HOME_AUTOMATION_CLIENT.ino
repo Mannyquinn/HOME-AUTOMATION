@@ -103,5 +103,6 @@ void loop()
 {
   sendPacket(functionCode::discovery, 159);                                                    //resolve the incoming serial commuinication
   resolveFunction();
-  delay(1);
+  delay(2);
 }
+
